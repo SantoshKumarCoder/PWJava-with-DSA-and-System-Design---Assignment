@@ -1,0 +1,7 @@
+1. Programming language is a high level language which is more closely to human undrstandable language. we write the instructions in a sequence to perform any task.
+2. Computer can only understand binary language but human cannot write or undrstand binaries so we programming language gives an ease to talk to the computer.
+3. Features of java:
+   Portable, machine independent, simple, object-oriented, robust, distributed, etc.
+4. Object is an real time entity of an class.
+5. Class is a blue print to be executed.
+6. main() is a method which JVM executes first and starts the execution.
